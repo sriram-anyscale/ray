@@ -65,6 +65,15 @@ For Ray's production-grade reinforcement learning library, see `RLlib <http://do
         :type: ref
         :text: Asynchronous Advantage Actor Critic (A3C)
         :classes: btn-link btn-block stretched-link
+    ---
+    :img-top: images/pong.png
+
+    +++
+    .. link-button:: key_value
+        :type: ref
+        :text: Key-Value store
+        :classes: btn-link btn-block stretched-link
+
 
 
 Basic Examples
