@@ -19,7 +19,7 @@ pettingzoo==1.22.1; python_version >= '3.7'
 # When installing pettingzoo, chess is missing, even though its a dependancy
 # TODO: remove if a future pettingzoo and/or ray version fixes this dependancy issue
 chess==1.7.0
-pymunk==6.2.1
+pymunk==6.4.0
 supersuit==3.7.0; python_version >= '3.7'
 # For tests on minigrid.
 minigrid==2.1.1
